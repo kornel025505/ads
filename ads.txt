@@ -1,0 +1,6 @@
+! Sajat hirdesesblokkolok
+
+||ads.tiktok.com^
+||analytics.tiktok.com^
+||tracking.tiktok.com^
+||mon.tiktok.com^
