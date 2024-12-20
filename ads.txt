@@ -1,6 +1,6 @@
 ! Sajat hirdesesblokkolok
 
-||ads.tiktok.com^
-||analytics.tiktok.com^
-||tracking.tiktok.com^
-||mon.tiktok.com^
+127.0.0.1 ads.tiktok.com
+127.0.0.1 analytics.tiktok.com
+127.0.0.1 tracking.tiktok.com
+127.0.0.1 mon.tiktok.com
