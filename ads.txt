@@ -1,4 +1,4 @@
-! Sajat hirdesesblokkolok
+
 
 127.0.0.1 ads.tiktok.com
 127.0.0.1 analytics.tiktok.com
